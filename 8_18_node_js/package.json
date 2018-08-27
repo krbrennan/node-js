@@ -1,0 +1,18 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Simple node.js server",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Brennan",
+  "license": "ISC",
+  "devDependencies": {
+    "mime": "^2.3.1"
+  },
+  "dependencies": {
+    "mime-type": "^3.0.5",
+    "mime-types": "^2.1.20"
+  }
+}
